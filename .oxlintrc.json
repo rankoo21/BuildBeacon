@@ -28,6 +28,8 @@
     "out/**",
     "build/**",
     "dist/**",
+    "pages-upload/**",
+    ".wrangler/**",
     "coverage/**",
     "next-env.d.ts"
   ],
